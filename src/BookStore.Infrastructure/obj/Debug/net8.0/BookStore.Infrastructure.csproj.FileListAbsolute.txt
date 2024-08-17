@@ -1,0 +1,11 @@
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\bin\Debug\net8.0\BookStore.Infrastructure.deps.json
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\bin\Debug\net8.0\BookStore.Infrastructure.dll
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\bin\Debug\net8.0\BookStore.Infrastructure.pdb
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.AssemblyInfo.cs
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.dll
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\obj\Debug\net8.0\refint\BookStore.Infrastructure.dll
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\obj\Debug\net8.0\BookStore.Infrastructure.pdb
+C:\Users\zmqpkyf\Documents\local-projects\charp\bookstore-ddd-example\src\BookStore.Infrastructure\obj\Debug\net8.0\ref\BookStore.Infrastructure.dll
